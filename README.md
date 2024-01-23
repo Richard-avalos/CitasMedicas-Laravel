@@ -6,7 +6,7 @@ Este proyecto de Citas Médicas está desarrollado utilizando Laravel 8 y PHP. S
 
 ## Autor
 **Richard Avalos** 🚀
-- [![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/richard-avalos-0497822ab)
+- [Perfil de LinkedIn](www.linkedin.com/in/richard-avalos-0497822ab)
 
 
 ## Instalación
